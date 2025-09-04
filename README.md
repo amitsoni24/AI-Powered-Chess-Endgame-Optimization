@@ -52,12 +52,3 @@ These positions will be used to test the optimization algorithms and evaluate th
 ## Conclusion
 
 This exploration into the optimization of pawnless chess endgames not only advances our understanding of computational approaches in game theory but also enhances strategic thinking in chess. By refining these techniques, we aim to contribute to both theoretical chess studies and practical computational applications.
-
-For more on the project checkout my medium blog
-
-<div align="center">
-
-<a href="https://jeevasaravanan.medium.com/" target="_blank">![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)</a> <a href="https://www.linkedin.com/in/jeeva-saravanan/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://jeeva-saravana-bhavanandam.web.app" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)</a>
-
-
-</div>
